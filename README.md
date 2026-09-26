@@ -1,3 +1,4 @@
+![Build Status](https://github.com/SHIVANI3020/SimpliBank-AI-Assistant/actions/workflows/ci.yml/badge.svg)
 # SimpliBank — AI-Powered Banking Assistant
 
 A Java console banking application with MySQL persistence, secure PIN-based login, fund transfers, and an AI-powered natural language query engine using Google's Gemini API.
